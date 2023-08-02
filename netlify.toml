@@ -1,0 +1,14 @@
+[[redirects]]
+  from = "/src/assets/icon-luxury.svg"
+  to = "/icon-luxury.svg"
+  status = 200
+
+  from = "/src/assets/icon-sedans.svg"
+  to = "/icon-sedans.svg"
+  status = 200
+
+  from = "/src/assets/icon-suvs.svg"
+  to = "/icon-suvs.svg"
+  status = 200
+
+  
