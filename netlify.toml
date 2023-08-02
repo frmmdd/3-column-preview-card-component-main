@@ -1,14 +1,7 @@
-[[redirects]]
-  from = "/src/assets/icon-luxury.svg"
-  to = "/icon-luxury.svg"
-  status = 200
+[build]
+  command = "npm run build"
 
 [[redirects]]
-  from = "/src/assets/icon-sedans.svg"
-  to = "/icon-sedans.svg"
-  status = 200
-
-[[redirects]]
-  from = "/src/assets/icon-suvs.svg"
-  to = "/icon-suvs.svg"
+  from = "/src/assets/*"
+  to = "/:splat"
   status = 200
